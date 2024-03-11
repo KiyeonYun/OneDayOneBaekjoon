@@ -13,25 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\01">
-      <UniqueIdentifier>{f7c29390-7e69-4865-9cc0-ea6f0ce7378e}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\02">
-      <UniqueIdentifier>{b7e01d90-b361-4907-989d-ba833b4557b0}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01_01_2557.cpp">
-      <Filter>소스 파일\01</Filter>
+    <ClCompile Include="9498.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="01_02_1000.cpp">
-      <Filter>소스 파일\01</Filter>
+    <ClCompile Include="2557.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="01_08_18108.cpp">
-      <Filter>소스 파일\01</Filter>
+    <ClCompile Include="1000.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="02_02_9498.cpp">
-      <Filter>소스 파일\02</Filter>
+    <ClCompile Include="18108.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
