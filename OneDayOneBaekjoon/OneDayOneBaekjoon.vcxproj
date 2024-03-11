@@ -139,7 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="OneDayOneBaekjoon.cpp" />
+    <ClCompile Include="01_01_2557.cpp" />
+    <ClCompile Include="01_02_1000.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
